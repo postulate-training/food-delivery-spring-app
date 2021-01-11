@@ -1,3 +1,3 @@
-# food-delivery-spring-app
+# spring-casestudies
 
-student course completion project
+java web development (spring) course - completion project done by our students
